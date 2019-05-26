@@ -1,2 +1,7 @@
 .idea/
 .gradle/
+
+# Personally, I don't like the gradle wrapper. Just install gradle, please.
+gradle/
+gradlew
+gradlew.bat
